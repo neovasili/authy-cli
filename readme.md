@@ -14,6 +14,6 @@ With this last command, your TOTP current code will be copied to your clipboard,
 
 The parameter **YOUR_TOKEN_KEY** is unique for your TOTP and is irrecoverable, so maybe you have to restore your TOTP to retrieve a new one.
 
-## Reference
+## Reference
 
 *  https://www.npmjs.com/package/authenticator-cli
